@@ -1,0 +1,19 @@
+{
+  "name": "node-import-context",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Node equivalent for webpack `require.context` using `import()` instead of `require()` for projects using ECMAScript Modules",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Anthony Pauwels<hello@anthonypauwels.be>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonypauwels/node-import-context.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anthonypauwels/node-import-context/issues"
+  },
+  "homepage": "https://github.com/anthonypauwels/node-import-context#readme"
+}
